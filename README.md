@@ -130,10 +130,6 @@ class SACHIN_SREE_D:
 
 
 
-
-
-
-
 ## ◈ `cat featured_projects.md`
 
 <div align="center">
@@ -158,10 +154,10 @@ Stack  : Blockchain · Security
 Focus  : Product Authenticity
 ```
 
-- Immutable ledger tracking
-- QR verification
-- Fraud prevention
-- Supply-chain transparency
+* Immutable ledger tracking
+* QR verification
+* Fraud prevention
+* Supply-chain transparency
 
 </td>
 
@@ -173,38 +169,19 @@ Focus  : Product Authenticity
 
 ```yaml
 Status : Active Development
-Stack  : React 18 · Vite · Typescript
+Stack  : React 18 · Vite · TypeScript
 Focus  : Misinformation Detection
 ```
 
-- Decentralized fact verification
-- Blockchain-backed trust records
-- NLP-powered credibility scoring
-- Transparent verification process
+* Decentralized fact verification
+* Blockchain-backed trust records
+* NLP-powered credibility scoring
+* Transparent verification process
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🌸 BLOOMFOCUS
-
-**AI Productivity & Wellness Platform**
-
-```yaml
-Status : Active
-Stack  : Extension · Javascript
-Focus  : Student Wellbeing
-```
-
-- Mood tracking
-- Focus analytics
-- Productivity insights
-- Personalized recommendations
-
-</td>
-
 <td width="50%" valign="top">
 
 ### 🌐 TOR-UNVEIL
@@ -217,10 +194,29 @@ Stack  : Python · PCAP
 Focus  : Traffic Intelligence
 ```
 
-- Tor traffic inspection
-- PCAP analysis
-- Security investigations
-- Traffic fingerprinting
+* Tor traffic inspection
+* PCAP analysis
+* Security investigations
+* Traffic fingerprinting
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 MORE PROJECTS
+
+**Security • Development • Research**
+
+```yaml
+Repositories : Available
+Focus        : Learning & Innovation
+Status       : Expanding
+```
+
+* Cybersecurity projects
+* CTF tooling
+* Web applications
+* Research experiments
 
 </td>
 </tr>
@@ -228,7 +224,7 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00B894?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-4C2A85?style=for-the-badge\&logo=github\&logoColor=D8B4FE)](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </div>
 
@@ -244,13 +240,11 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-| 🏆 Competition Wins | ⭐ Hackathon Finals | 🚀 Projects Built | 🎯 Events |
-|:------------------:|:------------------:|:----------------:|:---------:|
-| 3+ | 2 | 7 | 20+ |
+| 🏆 Achievements | ⭐ Hackathon Finals | 🚀 Projects Built | 🎯 CTF Participation |
+| :-------------: | :----------------: | :---------------: | :------------------: |
+|        3+       |         2+         |         7+        |          50+         |
 
 </div>
-
-<br>
 
 ```text
 [WINNER]     Cognebula 2025
