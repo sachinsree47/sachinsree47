@@ -264,9 +264,10 @@ Status       : Expanding
 
 ### 🛡️ VERIFIED CERTIFICATIONS
 
-<img src="https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-001F54?style=for-the-badge&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-4C2A85?style=for-the-badge&logoColor=D8B4FE"/>
 
 </div>
+
 
 ---
 
