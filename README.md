@@ -107,10 +107,10 @@ class SACHIN_SREE_D:
     ]
 
     MISSION = """
-        Discover vulnerabilities,
-        build secure systems,
-        and transform knowledge
-        into real-world impact.
+    Discover vulnerabilities,
+    build secure systems,
+    and transform knowledge
+    into real-world impact.
     """
 
     STATS = {
@@ -126,9 +126,13 @@ class SACHIN_SREE_D:
         "Building Security Projects",
         "Exploring Offensive Security"
     ]
+```
 
+</td>
+</tr>
+</table>
 
-
+---
 
 ## ◈ `cat featured_projects.md`
 
