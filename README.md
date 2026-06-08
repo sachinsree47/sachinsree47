@@ -76,79 +76,59 @@
 ║    MISSION  ─── Turn Vulnerabilities Into Solutions                      ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-
-## ◈ `whoami`
+```## ◈ `whoami`
 
 <table>
 <tr>
 <td width="78%">
 
 ```python
-# ─── sangamithra.profile ───────────────────────────────
+# ─── sachin.profile ───────────────────────────────────
 
-class SARA:
+class SACHIN_SREE_D:
 
     IDENTITY = {
-        "name"      : "Sangamithra S S",
-        "degree"    : "B.E. CSE — Cyber Security",
+        "name"      : "Sachin Sree D",
+        "role"      : "Cyber Security Engineering Student",
         "college"   : "RMK College of Engineering and Technology",
+        "degree"    : "B.E. CSE (Cyber Security)",
         "year"      : "4th Year ┊ Batch 2023–2027",
         "location"  : "Tamil Nadu, India 🇮🇳",
     }
 
+    INTERESTS = [
+        "Ethical Hacking",
+        "CTF Challenges",
+        "Network Security",
+        "Web Security",
+        "Blockchain Security"
+    ]
+
     MISSION = """
-        Passionate about building SECURE, INTELLIGENT,
-        and IMPACTFUL digital solutions.
+        Discover vulnerabilities,
+        build secure systems,
+        and transform knowledge
+        into real-world impact.
     """
 
-    ACHIEVEMENTS = {
-        "live_projects"   : 7,
-        "competitions"    : "20+",
-        "event_wins"      : "3+",
-        "hackathon_finals": 2,
+    STATS = {
+        "projects"          : "7+",
+        "hackathons"        : "5+",
+        "ctf_participation" : "50+",
+        "achievements"      : "3+",
     }
-```
 
-</td>
-
-<td align="center" valign="top">
-
-```text
-██████╗
-██╔════╝
-╚█████╗
- ╚═══██╗
-██████╔╝
-╚═════╝
-
- █████╗
-██╔══██╗
-███████║
-██╔══██║
-██║  ██║
-╚═╝  ╚═╝
-
-██████╗
-██╔══██╗
-██████╔╝
-██╔══██╗
-██║  ██║
-╚═╝  ╚═╝
-
- █████╗
-██╔══██╗
-███████║
-██╔══██║
-██║  ██║
-╚═╝  ╚═╝
-```
-
-</td>
-</tr>
-</table>
+    CURRENT_STATUS = [
+        "Learning Advanced Pentesting",
+        "Playing CTFs",
+        "Building Security Projects",
+        "Exploring Offensive Security"
+    ]
 
 
-<br clear="right"/>
+
+
+
 
 
 
