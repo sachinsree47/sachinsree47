@@ -270,34 +270,30 @@ Status       : Expanding
 
 
 ---
-
 ## ◈ `ls certificates/`
 
 <div align="center">
 
 ### 📂 CERTIFICATE ARCHIVE
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity-0A1128?style=for-the-badge&logo=google&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-0A1128?style=for-the-badge&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/NPTEL-Cloud_Computing-0A1128?style=for-the-badge&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity-2D1B4E?style=for-the-badge&logo=google&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-2D1B4E?style=for-the-badge&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/NPTEL-Cloud_Computing-2D1B4E?style=for-the-badge&logoColor=D8B4FE"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Great_Learning-Cyber_Forensics-001F54?style=for-the-badge&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/Great_Learning-DSA_Python-001F54?style=for-the-badge&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/Sololearn-Blockchain-001F54?style=for-the-badge&logo=sololearn&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/Sololearn-SQL-001F54?style=for-the-badge&logo=sololearn&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Great_Learning-Cyber_Forensics-4C2A85?style=for-the-badge&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/Great_Learning-DSA_Python-4C2A85?style=for-the-badge&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/Sololearn-Blockchain-4C2A85?style=for-the-badge&logo=sololearn&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/Sololearn-SQL-4C2A85?style=for-the-badge&logo=sololearn&logoColor=D8B4FE"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A1128?style=for-the-badge&logo=freecodecamp&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/HackerRank-JavaScript-0A1128?style=for-the-badge&logo=hackerrank&logoColor=7DF9FF"/>
-<img src="https://img.shields.io/badge/HackerRank-Java-0A1128?style=for-the-badge&logo=hackerrank&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-2D1B4E?style=for-the-badge&logo=freecodecamp&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript-2D1B4E?style=for-the-badge&logo=hackerrank&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/HackerRank-Java-2D1B4E?style=for-the-badge&logo=hackerrank&logoColor=D8B4FE"/>
 
 </div>
-
-
-
 
 <div align="center">
 
@@ -305,25 +301,25 @@ Status       : Expanding
 
 </div>
 
-
+---
 
 ## ◈ `git log --stat --oneline`
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=7DF9FF&icon_color=4FC3F7&text_color=B8F3FF"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&icon_color=C084FC&text_color=E9D5FF"/>
 
-&nbsp;&nbsp;
+  
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&hide_border=true&bg_color=020617&title_color=7DF9FF&text_color=B8F3FF"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&hide_border=true&background=020617&ring=7DF9FF&fire=4FC3F7&currStreakLabel=7DF9FF&sideLabels=B8F3FF&dates=B8F3FF)](https://git.io/streak-stats)
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&text_color=E9D5FF"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&bg_color=020617&color=7DF9FF&line=4FC3F7&point=B8F3FF&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&hide_border=true\&background=0D0B1F\&ring=D8B4FE\&fire=C084FC\&currStreakLabel=D8B4FE\&sideLabels=E9D5FF\&dates=E9D5FF)](https://git.io/streak-stats)
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0B1F&color=D8B4FE&line=C084FC&point=E9D5FF&hide_border=true"/>
 
 </div>
 
@@ -338,41 +334,41 @@ Status       : Expanding
 ║ READY FOR NEW OPPORTUNITIES          ║
 ╠══════════════════════════════════════╣
 ║ ✓ Cyber Security Internships         ║
+║ ✓ CTF Competitions                   ║
 ║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
-````
+```
 
 <br>
 
-
-<div align="center">
-
 <p>
-<a href="https://www.linkedin.com/in/sangamithra-s-s-2013ab298">
-<img src="https://img.shields.io/badge/LINKEDIN-001F54?style=for-the-badge&logo=linkedin&logoColor=7DF9FF"/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=D8B4FE"/>
 </a>
-<a href="https://github.com/Sangamithra-s-s">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=7DF9FF"/>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GITHUB-0D0B1F?style=for-the-badge&logo=github&logoColor=D8B4FE"/>
 </a>
-<a href="https://leetcode.com/u/sara2k6/">
-<img src="https://img.shields.io/badge/LEETCODE-001F54?style=for-the-badge&logo=leetcode&logoColor=7DF9FF"/>
+
+<a href="YOUR_TRYHACKME_URL">
+<img src="https://img.shields.io/badge/TRYHACKME-4C2A85?style=for-the-badge&logo=tryhackme&logoColor=D8B4FE"/>
 </a>
-<a href="mailto:sangamithrass2006.sm@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-001F54?style=for-the-badge&logo=gmail&logoColor=7DF9FF"/>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-2D1B4E?style=for-the-badge&logo=gmail&logoColor=D8B4FE"/>
 </a>
+
 </p>
 
 </div>
-
-
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A1128,100:001F54&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,50:2D1B4E,100:4C2A85&height=140&section=footer"/>
 
-### ⚡ Security • Innovation • Collaboration
+### ⚡ Security • CTFs • Innovation • Collaboration
 
 </div>
-
