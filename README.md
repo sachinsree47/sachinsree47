@@ -3,6 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0B1F,25:1A1333,60:2D1B4E,100:4C2A85&text=SACHIN%20SREE%20D&fontSize=65&fontColor=D8B4FE&fontAlignY=40&animation=fadeIn&desc=◈%20Cyber%20Security%20Engineer%20◈%20CTF%20Player%20◈%20Hackathon%20Finalist%20◈&descAlignY=62&descColor=E9D5FF&descSize=16"/>
 
 </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1500&color=D8B4FE&center=true&vCenter=true&width=750&lines=SACHIN+SREE+D;SENOI;0xSACHIN;CTF+PLAYER"/>
+
+</div>
+```
 
 <div align="center">
 
