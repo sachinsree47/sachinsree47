@@ -96,7 +96,7 @@
 class SACHIN_SREE_D:
 
     IDENTITY = {
-        "name"      : "Sachin Sree D",
+        "name"      : "Sachin Madhumitha Sree D",
         "role"      : "Cyber Security Engineering Student",
         "college"   : "RMK College of Engineering and Technology",
         "degree"    : "B.E. CSE (Cyber Security)",
