@@ -319,7 +319,6 @@ Status       : Expanding
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0B1F&color=D8B4FE&line=C084FC&point=E9D5FF&hide_border=true"/>
 
 </div>
 
