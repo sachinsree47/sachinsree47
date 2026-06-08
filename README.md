@@ -39,46 +39,43 @@
 </div>
 ```
 
-
 <br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sangamithra-s-s&label=PROFILE+VIEWS&color=001F54&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SachinSreeD&label=PROFILE+VIEWS&color=4C2A85&style=for-the-badge"/>
 
 </div>
 
-
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗                  ║
-║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝                  ║
-║    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗                    ║
-║    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝                    ║
-║    ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗                  ║
-║    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝                  ║
+║    ███████╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗                         ║
+║    ██╔════╝██╔══██╗██╔════╝██║  ██║██║████╗  ██║                         ║
+║    ███████╗███████║██║     ███████║██║██╔██╗ ██║                         ║
+║    ╚════██║██╔══██║██║     ██╔══██║██║██║╚██╗██║                         ║
+║    ███████║██║  ██║╚██████╗██║  ██║██║██║ ╚████║                         ║
+║    ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝                         ║
 ║                                                                          ║
-║    NAME     ─── Sangamithra S S                                          ║
+║    NAME     ─── SACHIN SREE D                                            ║
 ║    ROLE     ─── Cyber Security Engineering Student                       ║
-║    BASE     ─── RMKCET · B.E. CSE (Cyber Security) · 2023–2027           ║
-║    STATUS   ─── 4th Year · Builder · Open to Opportunities               ║
+║    BASE     ─── RMKCET · B.E. CSE (Cyber Security)                       ║
+║    STATUS   ─── 4th Year · CTF Player · Builder                          ║
+║                                                                          ║
+║    SPECIALIZE ─── Ethical Hacking · Network Security                     ║
+║                  Blockchain · Web Security · CTFs                        ║
 ║                                                                          ║
 ║    ┌─────────────┬──────────────┬──────────────┬──────────────┐          ║
-║    │  7 PROJECTS │ 20+ EVENTS   │  3+ WINS     │  2 FINALS    │          ║
+║    │ PROJECTS    │ HACKATHONS   │ CTFS PLAYED  │ ACHIEVEMENTS │          ║
+║    ├─────────────┼──────────────┼──────────────┼──────────────┤          ║
+║    │     7+      │      5+      │     50+      │      3+      │          ║
 ║    └─────────────┴──────────────┴──────────────┴──────────────┘          ║
 ║                                                                          ║
+║    MISSION  ─── Turn Vulnerabilities Into Solutions                      ║
+║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-<div align="center">
-<img width="320" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
 
 ## ◈ `whoami`
 
