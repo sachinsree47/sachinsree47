@@ -76,7 +76,8 @@
 ║    MISSION  ─── Turn Vulnerabilities Into Solutions                      ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```## ◈ `whoami`
+</div>
+## ◈ `whoami`
 
 <table>
 <tr>
