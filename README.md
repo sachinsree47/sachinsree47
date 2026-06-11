@@ -309,17 +309,17 @@ Status       : Expanding
 
 ---
 
-## ◈ `git log --stat --oneline`
+## ◈ Arsenal
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=sachinsree47&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&icon_color=C084FC&text_color=E9D5FF"/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsree47&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&text_color=E9D5FF"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sachinsree47&hide_border=true&background=0D0B1F&ring=D8B4FE&fire=C084FC&currStreakLabel=D8B4FE&sideLabels=E9D5FF&dates=E9D5FF)](https://git.io/streak-stats)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali-000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF_Player-000?style=for-the-badge)
 
 </div>
 
