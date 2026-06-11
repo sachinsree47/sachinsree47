@@ -313,18 +313,13 @@ Status       : Expanding
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&icon_color=C084FC&text_color=E9D5FF"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=sachinsree47&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&icon_color=C084FC&text_color=E9D5FF"/>
 
-  
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&text_color=E9D5FF"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsree47&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=D8B4FE&text_color=E9D5FF"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sachinsree47\&hide_border=true\&background=0D0B1F\&ring=D8B4FE\&fire=C084FC\&currStreakLabel=D8B4FE\&sideLabels=E9D5FF\&dates=E9D5FF)](https://git.io/streak-stats)
-
-<br><br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sachinsree47&hide_border=true&background=0D0B1F&ring=D8B4FE&fire=C084FC&currStreakLabel=D8B4FE&sideLabels=E9D5FF&dates=E9D5FF)](https://git.io/streak-stats)
 
 </div>
 
